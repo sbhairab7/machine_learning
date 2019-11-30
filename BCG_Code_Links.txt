@@ -41,8 +41,14 @@ https://medium.com/maheshkkumar/implementing-a-binary-classifier-in-python-b69d0
 
 ******GOOGLE binary classification python kaggle
 https://www.kaggle.com/yiidtw/a-complete-guide-for-binary-classification-problem
+
 ******GOOGLE impute missing values in python
 https://machinelearningmastery.com/handle-missing-data-python/
+
+******IMBALACE dataset
+https://medium.com/james-blogs/handling-imbalanced-data-in-classification-problems-7de598c1059f
+https://www.kaggle.com/gargmanish/how-to-handle-imbalance-data-study-in-detail
+
 ******GOOGLE binary classification with accuracy roc auc and classification report
 https://www.ritchieng.com/machine-learning-evaluate-classification-model/
 
