@@ -1,0 +1,51 @@
+******BHAIRAB
+https://github.com/sbhairab7/machine_learning
+
+******HR Analytics
+https://www.kaggle.com/randylaosat/hr-analytics-simple-visualizations
+
+******Kaggle A Complete Guide for Regression Problem
+https://www.kaggle.com/yiidtw/a-complete-guide-for-regression-problem
+
+******ANN
+https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6
+https://github.com/ardendertat/Applied-Deep-Learning-with-Keras/blob/master/notebooks/Part%201%20-%20Artificial%20Neural%20Networks.ipynb
+
+https://towardsdatascience.com/applied-deep-learning-part-2-real-world-case-studies-1bb4b142a585#cf02
+https://github.com/ardendertat/Applied-Deep-Learning-with-Keras/blob/master/notebooks/Part%202%20-%20Case%20Studies.ipynb
+
+******Hypothesis Testing in Machine Learning
+https://www.datacamp.com/community/tutorials/hypothesis-testing-machine-learning
+
+******CODE HEROKU
+https://github.com/codeheroku
+
+******Renu Khandelwal
+https://medium.com/@arshren
+******MULTI CLASS NEURAL NETS
+https://medium.com/datadriveninvestor/k-fold-and-dropout-in-artificial-neural-network-ea054a89fb4e
+******BINARY CLASS NEURAL NETS
+https://medium.com/datadriveninvestor/building-neural-network-using-keras-for-classification-3a3656c726c1
+******REGRESSION NEURAL NETS
+https://medium.com/datadriveninvestor/building-neural-network-using-keras-for-regression-ceee5a9eadff
+
+******Classify all ML models
+https://github.com/RoobiyaKhan/Classification-Models-Using-Python
+
+******BCG GAMMA
+https://github.com/sgoenka/bcggamma
+
+******BINARY CLASSIFICATION
+https://stackabuse.com/classification-in-python-with-scikit-learn-and-pandas/
+https://medium.com/maheshkkumar/implementing-a-binary-classifier-in-python-b69d08d8da21#:~:targetText=A%20Binary%20Classifier%20is%20an,groups%2C%20either%20Zero%20or%20One.
+
+******GOOGLE binary classification python kaggle
+https://www.kaggle.com/yiidtw/a-complete-guide-for-binary-classification-problem
+******GOOGLE impute missing values in python
+https://machinelearningmastery.com/handle-missing-data-python/
+******GOOGLE binary classification with accuracy roc auc and classification report
+https://www.ritchieng.com/machine-learning-evaluate-classification-model/
+
+INTERVIEW QUESTIONS
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/
+https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/
